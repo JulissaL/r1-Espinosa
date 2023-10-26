@@ -1,13 +1,21 @@
 # r1-Espinosa
 
 API Rest
+
 Esta API es una aplicación construida con Spring Boot 3.1.5  que permite a los usuarios crear, leer, actualizar y eliminar cuentas, utilizando InlliJ IDEA para crear los códigos.
-siguientes Funcionalidades El API proporciona las funcionalidades para manejar cuentas:
+
+Siguientes Funcionalidades El API proporciona las funcionalidades para manejar cuentas:
+
 Crear una nueva cuenta. Leer todas las cuentas. Leer una cuenta por su ID. Actualizar una cuenta existente. Eliminar una cuenta. Cada cuenta tiene los siguientes atributos:
+
 •	Nombre del cliente.
+
 •	Número de cuenta.
+
 •	Saldo de la cuenta.
+
 •	Estado de la cuenta.
+
 
 
 Uso:
